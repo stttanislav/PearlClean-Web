@@ -1,0 +1,13 @@
+{
+  "name": "PearlClean — догляд за усмішкою",
+  "short_name": "PearlClean",
+  "description": "Ваш щоденний ритуал догляду за зубами.",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f5fbfb",
+  "theme_color": "#087d92",
+  "lang": "uk",
+  "icons": [
+    { "src": "icons/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}
